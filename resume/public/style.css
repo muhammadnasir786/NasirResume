@@ -1,0 +1,64 @@
+body{
+     /* margin: 0px; 
+     padding:0px;  */
+     background-color: #eee;
+}
+.row{
+       /* border: 1px solid lightgrey;    */
+     /* padding: 10px; */
+       margin: 20px;  
+}
+
+.card {
+        
+    background-color: white;
+    border: 1px  solid lightgray;
+     padding: 30px; 
+          /* margin: 2px;     */
+    -webkit-box-shadow: 7px 6px 33px 0px rgba(0,0,0,0.89);
+    -moz-box-shadow: 7px 6px 33px 0px rgba(0,0,0,0.89);
+    box-shadow: 7px 6px 33px 0px rgba(0,0,0,0.89);
+        margin-left: 0px;
+
+ }
+  
+#profile-img
+{
+    width: 100%;
+    /* height: 290px; */
+}
+.bar
+{
+    width: 100%;
+    height: 29px;
+    border-radius: 10px;
+    background-color: lightskyblue;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+
+}
+.name{
+    margin:10px 0px 10px 0px; 
+    color: darkblue;
+}
+hr
+{
+    height: 6px;
+}
+img{
+margin-top: 20px;
+}
+h2{
+    color: brown;
+   /* -webkit-text-stroke : 2px black; */
+
+
+}
+p{
+    font-size: 18px;
+}
+h3{ 
+    color: limegreen;
+}
